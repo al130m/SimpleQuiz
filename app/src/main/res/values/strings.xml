@@ -1,24 +1,17 @@
 <resources>
     <string name="app_name">Simple Quiz</string>
+    <string name="pierron">Amaury Pierron rides for?</string>
+    <string name="born">Who won the EWS in 2018?</string>
+    <string name="rider_Atherton">Atherton</string>
+    <string name="rider_Gwin">Aaron Gwin</string>
+    <string name="rider_Hill">Sam Hill</string>
     <string name="submit">Submit</string>
-
-    <string name="question_1">Mulitple Choice Question</string>
-    <string name="question_1_1">Question_1_Answer_1</string>
-    <string name="question_1_2">Question_1_Answer_2</string>
-    <string name="question_1_3">Question_1_Answer_3</string>
-    <string name="question_1_4">Question_1_Answer_4</string>
-
-    <string name="question_2">One Answer Question</string>
+    <string name="answer">Answer</string>
+    <string name="chain">True or False, Aaron Qwin won at Leogang with no chain</string>
+    <string name="True">True</string>
+    <string name="False">False</string>
+    <string name="question_2">Question #2</string>
     <string name="question_2_1">Question_2_Answer_1</string>
     <string name="question_2_2">Question_2_Answer_2</string>
     <string name="question_2_3">Question_2_Answer_3</string>
-
-    <string name="question_3">Boolean Question</string>
-    <string name="question_3_1">True</string>
-    <string name="question_3_2">False</string>
-
-    <string name="question_4">Free From Text Question</string>
-    <string name="question_4_1">Question_2_Answer_1</string>
-    <string name="question_4_hint">Your answer here</string>
-
 </resources>
